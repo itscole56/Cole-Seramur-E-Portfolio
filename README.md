@@ -1,4 +1,3 @@
-[cole-seramur-portfolio-final.html](https://github.com/user-attachments/files/27379192/cole-seramur-portfolio-final.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
